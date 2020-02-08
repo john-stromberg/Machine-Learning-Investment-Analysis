@@ -1,1 +1,1 @@
-# Machine-Learning-Stock-Analysis
+# Machine-Learning-Investment-Analysis
