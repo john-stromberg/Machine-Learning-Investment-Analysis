@@ -1,12 +1,11 @@
 # Machine-Learning-Investment-Analysis
 
-Prelimary proposal: 
-Predicting the price of stock using historical price data, fundamental charateritics, and other factors with python, scikit-learn, keras/tensorflow.
+Proposal: 
+Predicting the price of stock using historical price data, with python, scikit-learn, keras/tensorflow.
 
-Disclaimer: Predicting stock prices accurately is very challenging as price is impacted by many different variables and potentially random occurences outside of company financial data. Creating reliable models to make profitable investment decisions will require a lot more work
+Disclaimer: Predicting stock prices accurately is very challenging as price is impacted by many different variables and potentially random occurences outside of company financial data. Creating reliable models to make profitable investment decisions will require a lot more work.
 
-Interests: Using machine leanring and coding generally applied to investing. Where my focus will be after the class.
-Good topic to get my feet wet with machine learning with a large amount of data easily and readily available, literature on the subject, and many examples. 
+Interests: Using machine learning and coding generally applied to investing and trading. Good topic to get my feet wet with machine learning with a large amount of data easily and readily available, literature on the subject, and many examples. 
 
 Data Sources: quandl, yahoo
 Stocks: Google, Apple, Facebook
@@ -63,7 +62,7 @@ make predictions, validate predictions with actual price data
 plot
 
 
-Where to take the project:
+Where to take the project: 
 add another neaural network model, add stock price technical indicators to the equation and use machine learning to determine which is the most successful at predicting up/down price movement 
 decision tree, random forest. Add interative visualization to illustrate multiple models 
  
